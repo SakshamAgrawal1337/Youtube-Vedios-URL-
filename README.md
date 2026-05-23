@@ -36,6 +36,14 @@ This app fetches videos from:
 ## Notes
 - If the API response structure changes, you may need to adjust how the component reads data (currently uses `data?.data?.data`).
 
+## Learnings
+- Working with REST APIs in React
+- Handling async fetch requests
+- Managing loading and error states
+- Building responsive UIs using Tailwind CSS
+- Using reusable components and modern React hooks
 
+## Author
+Developed by Saksham Agrawal
 
 
